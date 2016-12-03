@@ -62,3 +62,4 @@ Doit.im http://doitim.com/cn/
       cfr: http://www.benf.org/other/cfr/
 
 
+22. Google镜像 : http://google.adwiki.cn/
